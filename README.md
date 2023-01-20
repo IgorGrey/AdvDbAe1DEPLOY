@@ -18,7 +18,7 @@ Web app desined to view, add, delete records related to Equipment losses &
 Death Toll & Military Wounded & Prisoner of War of russians
 <br>
 ##Design<br>
-[Diagram](/public/Image 20-01-2023 at 14.29.jpeg)
+[Diagram]/public/Image 20-01-2023 at 14.29.jpeg <br>
 <br>
 Standard MVC stack desing used in this app.
 <br>
