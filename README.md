@@ -1,18 +1,25 @@
-# COM519AdvanceDatebaseAE1
-
-CORE:
-- bare bones - DONE
-- connect DB - DONE
-- session, 
-- controllers, 
-- model, schema - DONE (Not puling data - tested console.log()
------PC died, switched to macbook---- 
-- crud
-- views pages
-- design = bootstrap
-- filter data option
-- Write report in markdown language
-
-
-potential Extras:
-- - find a way to visualize data (maybe mongodb chart tools)
+# COM519 Advance Datebase AE1
+<br>
+Github repo: [link]https://github.com/IgorGrey/AdvDbAe1DEPLOY
+Deployed app availible on [link]https://calm-fly-life-jacket.cyclic.app/
+Database [link]https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war
+<br>
+## How to run it using VS Code IDE:
+- clone github repo 
+- execute following commands sequentialy:
+1. npm install
+2. npm run dev
+- visit location suggested in terminal outpun (from browser)
+- <br>
+##About
+Ongoing war been Russia and Ukraine brought alot of attention internationally. 
+Data handling and visualisation of recorded data can show reality of this historical event in numbers/graphs.
+Web app desined to view, add, delete records related to Equipment losses & 
+Death Toll & Military Wounded & Prisoner of War of russians
+<br>
+##Design
+![Diagram](/public/Image 20-01-2023 at 14.29.jpeg)
+<br>
+Standard MVC stack desing used in this app.
+<br>
+## 
