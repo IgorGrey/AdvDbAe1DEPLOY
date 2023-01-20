@@ -1,6 +1,7 @@
 # COM519 Advance Datebase AE1
 <br>
-Github repo: [link]https://github.com/IgorGrey/AdvDbAe1DEPLOY<br>
+Github original repo: [link]https://github.com/IgorGrey/COM519AdvanceDatebaseAE1.git <br>
+Github deployment repo: [link]https://github.com/IgorGrey/AdvDbAe1DEPLOY<br>
 Deployed app availible on [link]https://calm-fly-life-jacket.cyclic.app/ <br>
 Database [link]https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war <br>
 <br>
