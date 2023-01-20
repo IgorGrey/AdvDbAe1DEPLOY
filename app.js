@@ -4,7 +4,11 @@ const path = require("path");
 const app = express();
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
+
 const {PORT, MONGODB_URI} = process.env;
+const client = new MongoClient(
+  process.env.NODE_ENV === "production" ? MONGODB__PRODUCTION_URI : MONGODB_URI
+);
 
 const RLE = require("./models/Equipment_loss");
 const RLP = require("./models/Personnel_loss");

@@ -8,9 +8,9 @@ const Rle = require("./models/Equipment_loss");
 
 const { MONGODB_URI, MONGODB__PRODUCTION_URI } = process.env;
 
-const client = new MongoClient(
-  process.env.NODE_ENV === "production" ? MONGODB__PRODUCTION_URI : MONGODB_URI
-);
+// const client = new MongoClient(
+//   process.env.NODE_ENV === "production" ? MONGODB__PRODUCTION_URI : MONGODB_URI
+// );
 
 async function main() {
     try {
