@@ -1,11 +1,11 @@
 # COM519 Advance Datebase AE1
 <br>
-Github repo: [link]https://github.com/IgorGrey/AdvDbAe1DEPLOY
-Deployed app availible on [link]https://calm-fly-life-jacket.cyclic.app/
-Database [link]https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war
+Github repo: [link]https://github.com/IgorGrey/AdvDbAe1DEPLOY<br>
+Deployed app availible on [link]https://calm-fly-life-jacket.cyclic.app/ <br>
+Database [link]https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war <br>
 <br>
 ## How to run it using VS Code IDE:
-- clone github repo 
+- clone github repo ß
 - execute following commands sequentialy:
 1. npm install
 2. npm run dev
