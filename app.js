@@ -6,8 +6,9 @@ const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 
 const {PORT, MONGODB_URI} = process.env;
+
 const client = new MongoClient(
-  process.env.NODE_ENV === "production" ? MONGODB__PRODUCTION_URI : MONGODB_URI
+  process.env.NODE_ENV === "production" ? MONGODB_URI : MONGODB_PRODUCTION_URI
 );
 
 const RLE = require("./models/Equipment_loss");
